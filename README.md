@@ -15,29 +15,29 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hi 👋, I'm Nihar Zanwar </h1>
+<h1 align="center">Hi 👋, I'm Dheeraj Devalekar </h1>
 <h3 align="center">!(your everyday developer)</h3>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=NiharZanwar" alt="NiharZanwar" />
+<img src="https://komarev.com/ghpvc/?username=dheerajdevalekar" alt="dheerajdevalekar" />
 
  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/></p>
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/NiharZanwar?tab=repositories)
+- 👨‍💻 All of my projects are available  [here](https://github.com/dheerajdevalekar?tab=repositories)
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **zanwarnihar@gmail.com**
+- 📫 How to reach me **dhiraj1423@gmail.com**
 
 
 
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=NiharZanwar&show_icons=true&count_private=true&theme=radical" alt="NiharZanwar" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dheerajdevalekar&show_icons=true&count_private=true&theme=radical" alt="dheerajdevalekar" />
  </p>
 
 
