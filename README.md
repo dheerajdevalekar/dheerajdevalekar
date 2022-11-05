@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">!(your everyday developer)</h3>
 
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
-![image](https://media.tenor.com/pKgBbArPChQAAAAC/mario-super.gif)
+![image](https://media.tenor.com/zOoVaNGp6IsAAAAd/mario-game.gif)
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=dheerajdevalekar" alt="dheerajdevalekar" />
