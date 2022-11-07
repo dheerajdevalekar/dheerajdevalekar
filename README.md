@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <!--![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)-->
 ![image](https://media.tenor.com/zOoVaNGp6IsAAAAd/mario-game.gif)
 
-<p align="left">
+<p align="center">
 <img src="https://komarev.com/ghpvc/?username=dheerajdevalekar" alt="dheerajdevalekar" />
 
 <!-- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
