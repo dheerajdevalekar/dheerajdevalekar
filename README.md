@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 <h3 align="center">!(your everyday developer)</h3>
 
 <!--![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)-->
-![image](https://media.tenor.com/zOoVaNGp6IsAAAAd/mario-game.gif)
+![image](https://media.tenor.com/zOoVaNGp6IsAAAAd/mario-game.gif, style="float:left")
 
-<p align="center">
+<p align="left">
 <img src="https://komarev.com/ghpvc/?username=dheerajdevalekar" alt="dheerajdevalekar" />
 
 <!-- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
