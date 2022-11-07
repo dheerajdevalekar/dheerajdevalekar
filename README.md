@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=dheerajdevalekar" alt="dheerajdevalekar" />
 
- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
-<!--  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
+<!-- <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/amazonaws.svg" alt="aws"  width="20" height="20" /> 
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/></p>-->
 
