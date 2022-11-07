@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="20" height="20"/> 
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="20" height="20"/></p>-->
 
-- 👨‍💻 All of my projects are available  [here](https://github.com/dheerajdevalekar?tab=repositories)
+- 👨‍💻 All of my projects are available  ![image](https://media.istockphoto.com/id/1058380502/vector/red-simple-map-pin-with-shadow.jpg?s=612x612&w=0&k=20&c=1dexj8I3HlXXSXXr101q2NHcvWEVqYhrZkuJCcgqHoY=)(https://github.com/dheerajdevalekar?tab=repositories)
 
 - 💬 Ask me about **anything**
 
